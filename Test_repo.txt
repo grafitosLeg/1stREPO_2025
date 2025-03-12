@@ -3,3 +3,4 @@ Zmiana  treści
 3ci zmiana treści
 4ta zmiana treści
 5ta zmiana treści na lokalnym repo, nie sklonowanym
+6ta zmiana treści na klonie
